@@ -14,7 +14,7 @@ I got this on my birthday in Costa Rica. This is fairly easy to solve with intui
 
 Ivy cube has two types. I call them "corners" and "leaves".
 
-![nomenclature](/assets/ivy-cube/nomenclature.jpeg)
+![nomenclature]({{ site.baseurl }}/assets/ivy-cube/nomenclature.jpeg)
 
 
 1) Orient the corners
