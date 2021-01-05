@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# We're getting married!
+# Why Lazy Cubing
 
-We're gettimg married **7/25/2021** in **Costa Rica.** If you're reading this you are probably invited and have lots of questions.  We have put together this site to help answer questions (but feel free to reach out to either of us if anything isn't covered).
+Solving "twisty puzzles" is a trade off between the (number of turns) and (number of algorithms) needed. This is true for both figuring out a new cube for the first time and for creating a reproducible set of steps to follow.
 
-We took a trip to Costa Rica from 12/25/2020 - 1/7/2021 to gather some info and get familiar with the country.  You'll find some facts about Costa Rica, some info about traveling during Covid, and some fun things we did on our "recon" trip.
+Some people memorize over a hundred algorithms for a 3x3x3 (standard Rubik's cube). I think an argument can be made that if you exclude "intuitive" algorithms you only need 3-4 "real" algorithms to solve one. The 3-4 algorithm method won't win you any prizes but for me it's more fun to figure out the minimum amount of steps.
