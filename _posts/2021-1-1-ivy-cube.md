@@ -37,11 +37,21 @@ Obviously if you can solve the leaves without messing up the corners we're done.
 
 I call this a flower swap (three leaves that form a flower shape)
 
-![Flower Swap]({{ site.baseurl }}/assets/ivy-cube/mixed-leaves-algo.jpeg)
+![Flower Swap]({{ site.baseurl }}/assets/ivy-cube/flower-movement.jpeg)
+
+![Flower Algorithm]({{ site.baseurl }}/assets/ivy-cube/mixed-leaves-algo.jpeg)
 
 (This is my first post, hopefully my way of documenting algorithms makes sense. I think this is easier than defining the movement at the beginning then telling you "RrL'FFbL" or whatever)
 
 Twist the corner on which I drew a green overlay "up" (send the orange leaf up). Twist the red overlay "up". Green back down. Then red down.
+
+**You can reverse the red and green to change the direction the three leaves get swapped.**
+I think of it as:
+
+  1. corner of the leaf color I want to go 'up' first
+  2. other corner up
+  3. first corner down
+  4. second corner down
 
 2.2) Triangle Swap
 
@@ -57,7 +67,7 @@ Your setup moves might be a bit different (there is more than one way to make th
 
 ![Triangle Setup]({{ site.baseurl }}/assets/ivy-cube/triangle-post-setup.jpeg)
 
-After the setup you can do the flower swap as normal. It won't look solved, but after undoing the setup moves you should be done!
+After the setup you can do the flower swap as normal. (In this case I actually did the "reverse" version of the algorithm) It won't look solved, but after undoing the setup moves you should be done!
 ![Triangle Post Algorithm]({{ site.baseurl }}/assets/ivy-cube/triangle-post-algo.jpeg)
 
 # Done!
