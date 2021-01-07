@@ -67,7 +67,7 @@ Your setup moves might be a bit different (there is more than one way to make th
 
 ![Triangle Setup]({{ site.baseurl }}/assets/ivy-cube/triangle-post-setup.jpeg)
 
-After the setup you can do the flower swap as normal. (In this case I actually did the "reverse" version of the algorithm) It won't look solved, but after undoing the setup moves you should be done!
+After the setup you can do the flower swap as normal. It won't look solved, but after undoing the setup moves you should be done!
 ![Triangle Post Algorithm]({{ site.baseurl }}/assets/ivy-cube/triangle-post-algo.jpeg)
 
 # Done!
