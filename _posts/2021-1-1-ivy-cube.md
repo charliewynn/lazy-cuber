@@ -52,6 +52,8 @@ I think of it as:
   2. other corner up
   3. first corner down
   4. second corner down
+  
+You may need to do this a few times to move the leaves around until you either solve the puzzle or get to a point where doing any more swaps will start undoing your other leaves.
 
 2.2) Triangle Swap
 
